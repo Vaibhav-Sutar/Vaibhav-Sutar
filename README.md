@@ -103,8 +103,7 @@
 
 ## GitHub Stats
 
-
-|                                                                     Vaibhav's Stats                                                     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-sutar&show_icons=true&locale=en&layout=compact" alt="vaibhav-sutar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-sutar&show_icons=true&locale=en&layout=compact" alt="vaibhav-sutar" /></p>
 <br/>
 <br/>
 <br/>
@@ -114,11 +113,5 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-sutar&" alt="vaibhav-sutar" /></p>
 <br/>
-<br/>                                                                                 |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
+<br/>                                                                                 |                                                  
 
