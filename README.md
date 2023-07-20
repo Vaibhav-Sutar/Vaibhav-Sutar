@@ -36,6 +36,11 @@
 ✔ I’m currently learning **VueJS** & **NextJS**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-sutar&show_icons=true&locale=en&layout=compact" alt="vaibhav-sutar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-sutar&show_icons=true&locale=en" alt="vaibhav-sutar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-sutar&" alt="vaibhav-sutar" /></p>
 
 
   
